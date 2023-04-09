@@ -1,0 +1,1 @@
+print("Hay letras a y n.") if "a" and "n" in input("ingresa una palabra: ") else print("""No hay letras "a" y "n". """)
